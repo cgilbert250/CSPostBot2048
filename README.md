@@ -1,9 +1,6 @@
 # CSPostBot2048
-Code for my image generation tool for https://www.facebook.com/CSPostBot2048
+Code for my image posting twitter bot (https://twitter.com/Science2048)
 
-Just a fun side project. This tool chooses a random image, and chooses a random caption from a list to append to that image.
+Just a fun side project. This tool chooses a random image, and pairs it with a random computer science themed caption to make a randomly-generated "meme" of sorts. Inital idea taken from https://twitter.com/ShitpostBot5000. 
 
-The image generation code is in botImageTest.py. The code to post the image to the facebook page will be added later, once facebook's individual reviewer restriction is lifted, and I can start the bot posting again.
-
-Alternatively, I may move the posts to Twitter instead, please check back for more updates.
-
+The bot posts to twitter using code taken from https://www.mattcrampton.com/blog/step_by_step_tutorial_to_post_to_twitter_using_python/ (Thanks for the great tutorial!)
